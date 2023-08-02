@@ -54,5 +54,4 @@ nominatim import --continue indexing
 
 ## Use the following command to check the net long, where the xxx.xxx.xxx.xxx is the IP address of the server
 
-http://xxx.xxx.xxx.xxx/nominatim/reverse.php?format=jsonv2&lat=6.9271&lon=79.8612
-
+http://my_ip_address/nominatim/reverse?lat=6.4397282&lon=3.4783219
